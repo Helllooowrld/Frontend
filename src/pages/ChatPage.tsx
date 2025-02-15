@@ -1,7 +1,7 @@
-import ChatComponent from "@/components/ui/Chat";
+import ChatPageComponent from "@/components/ui/Chat";
 
 const ChatPage = () => {
-  return <ChatComponent />;
+  return <ChatPageComponent />;
 };
 
 export default ChatPage;
